@@ -1,39 +1,4 @@
 {
-  // "editor.fontFamily": "'CaskaydiaCove NF', 'Hack Nerd Font', 'monospace', monospace, 'Droid Sans Fallback'",
-  // "editor.fontLigatures": true,
-  // "workbench.productIconTheme": "fluent-icons",
-  // "editor.insertSpaces": true,
-  // "editor.wordwrap": "on",
-  // "editor.detectIndentation": false,
-  // "editor.renderWhitespace": "none",
-  // "editor.tabSize": 2,
-  // "emmet.syntaxProfiles": {
-  //   "javascript": "html"
-  // },
-  // "emmet.includeLanguages": {
-  //   "javascript": "html"
-  // },
-  // "emmet.triggerExpansionOnTab": true,
-  // "files.autoSave": "onFocusChange",
-  // "window.restoreWindows": "none",
-  // "extensions.ignoreRecommendations": true,
-  // "editor.snippetSuggestions": "top",
-  // "editor.formatOnPaste": true,
-  // "editor.formatOnSave": true,
-  // "[html]": {
-  //   "editor.formatOnSave": true,
-  //   "editor.defaultFormatter": "vscode.html-language-features"
-  // },
-  // "editor.wordWrap": "on",
-  // "workbench.sideBar.location": "right",
-  // "editor.accessibilitySupport": "off",
-  // "security.workspace.trust.untrustedFiles": "open",
-  // "redhat.telemetry.enabled": true,
-  // "terminal.external.linuxExec": "kitty",
-  // "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
-  // "workbench.startupEditor": "none",
-  // "workbench.iconTheme": "material-icon-theme",
-  // "workbench.colorTheme": "One Dark Pro Darker"
 
   "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
   "workbench.sideBar.location": "right",
